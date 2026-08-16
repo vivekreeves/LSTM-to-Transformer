@@ -1,0 +1,2 @@
+This is a sample training text for the LSTM model.
+It should be replaced with real book text for better results.
