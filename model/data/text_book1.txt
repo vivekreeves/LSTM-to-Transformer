@@ -1,2 +1,208 @@
-This is a sample training text for the LSTM model.
-It should be replaced with real book text for better results.
+1.	Counting Donkeys
+Nasruddin was riding his donkey and counting: “One, two, three…” Suddenly he cried, “Oh no, one is missing!” He got off to count again—forgetting he was sitting on one.
+	2.	Soup Smell
+A poor man was caught smelling soup in the market. The shopkeeper demanded payment. Nasruddin said, “He only smelled it—let him pay with the sound of coins.”
+	3.	Whose Donkey?
+Nasruddin’s donkey wandered off. People asked, “Why aren’t you upset?” He said, “Why should I? The donkey is upset enough for both of us.”
+	4.	Mirror
+Nasruddin found a mirror, looked in, and shouted, “My wife hides pictures of strange men!” He broke it. His wife said, “Fool, that was you.”
+	5.	Soup Too Hot
+Nasruddin sipped soup, burned his tongue, and spat it out. Then he looked angrily at the spoon: “You knew it was hot—why didn’t you warn me?”
+	6.	Borrowed Pot
+A neighbor borrowed Nasruddin’s pot. When returning it, he put a small pot inside. “Your pot had a baby!” he said. Nasruddin smiled. Next time, the neighbor borrowed again and didn’t return. When asked, he said, “It died.” Nasruddin sighed: “If it can give birth, it can also die.”
+	7.	Sermon
+Nasruddin was asked to give a sermon. He said, “Do you know what I will say?” People said, “No.” He replied, “Then what’s the use? You won’t understand.” Next week they said, “Yes.” He replied, “Then there’s no need to say it.” Third week, half said yes, half no. He said, “Then those who know, tell those who don’t,” and left.
+	8.	Lost Donkey and Thanks
+When Nasruddin lost his donkey, he thanked God. People asked why. He said, “Because I wasn’t riding it, otherwise I’d be lost too.”
+	9.	Weight of the Moon
+Nasruddin fell into a well. Someone pulled him out. He said, “It was hard—especially carrying the moon on my back.” He had seen its reflection in the water.
+	10.	Donkey’s Shadow
+Someone rented Nasruddin’s donkey. At noon, he sat in its shadow to rest. Nasruddin demanded extra payment: “The donkey you rented, but not its shadow.”
+	11.	Why Crying?
+Nasruddin was crying. People asked why. “I lost my wife,” he said. “Then why cry? You’ll find another.” He wailed louder: “That’s what I’m afraid of!”
+	12.	Judge and Bribe
+As a judge, Nasruddin took bribes from both sides. He said, “Now I can be fair.”
+	13.	In the River
+Someone saw Nasruddin in the river, searching. “What are you doing?” “Looking for my axe.” “Where did you lose it?” “In the forest.” “Then why here?” “Because the water is clearer.”
+	14.	Carrying Door
+Nasruddin carried his house door on his back. “Why?” “So nobody can break in.”
+	15.	Shoe Repair
+Nasruddin went to repair his shoes at night. The cobbler said, “Why now?” He replied, “Because during the day, the shoes are out working.”
+	16.	The King’s Ring
+A king lost his ring and suspected Nasruddin. They searched him and found nothing. Nasruddin said, “If I had known you lost it, I would have stolen it.”
+	17.	How Old Are You?
+Nasruddin said, “Forty.” Ten years later, he said again, “Forty.” “How?” “I am a man of my word.”
+	18.	Learning to Swim
+Nasruddin fell in the river. People shouted, “Swim!” He yelled, “How can I learn swimming when I am drowning?”
+	19.	Poor Rich Man
+Someone bragged about being rich. Nasruddin said, “I am richer—I have nothing, and nothing cannot be taken away.”
+	20.	When I Die
+Nasruddin said, “When I die, bury me upside down. The world is so upside down, someday they will think I am standing.”
+	21.	Shouting in the Market
+Nasruddin shouted in the market, “Free bread! Free bread!” When people gathered, he said, “There is no bread. But isn’t it good to come together?”
+	22.	Camel’s Load
+Nasruddin loaded his camel heavily, then climbed on top. “Now it’s fair—the load is shared.”
+	23.	Noisy Shoes
+Nasruddin’s shoes made noise. He took them off and said, “Walk quietly, I’ll follow barefoot.”
+	24.	Horse’s Tail
+Someone asked, “How old is your horse?” Nasruddin replied, “Same age as its tail.”
+	25.	Light in the House
+Nasruddin was looking for his key outside. Asked why not inside, he said, “Because inside it is dark.”
+	26.	Carpet Seller
+A man asked, “How much is this carpet?” Nasruddin: “One hundred.” The man: “But the shopkeeper next door sells it for fifty.” Nasruddin: “Then buy from him.” “He has none left.” Nasruddin: “If I had none, I’d sell it for twenty.”
+	27.	Which Side?
+Nasruddin’s donkey threw him off. People asked, “Did you fall on the right or left side?” He said, “No, I fell on the ground.”
+	28.	Doctor’s Fee
+A doctor asked for payment. Nasruddin said, “But you cured me by mistake—you thought I had another illness.”
+	29.	Moon’s Reflection
+Nasruddin tried to scoop the moon’s reflection from the pond. “If I don’t pull it out, the world will drown in darkness.”
+	30.	Honest Beggar
+A beggar asked for money. Nasruddin said, “I never give.” Beggar: “Then why did you ask me to come?” Nasruddin: “I like to be honest.”
+
+Great 👍 Let’s continue. Here’s the next batch of Mulla Nasruddin short stories (31–100) — quick, witty, and sharp.
+
+⸻
+
+Mulla Nasruddin Stories (31–100)
+	31.	Counting Stars
+Nasruddin lay on his back, counting stars. Someone asked, “Why?” He said, “I lost count yesterday. I’m continuing today.”
+	32.	Chicken Soup
+A guest praised Nasruddin’s soup. He said, “That’s just water in which a chicken once dreamed of swimming.”
+	33.	Throwing Stones
+Nasruddin threw stones into the air. Someone asked, “Why?” He said, “I want to see if they come down anywhere else.”
+	34.	Judge’s Wisdom
+As a judge, Nasruddin listened to one side and said, “You are right.” The other side argued, and he said, “You are right.” His wife said, “They both can’t be right.” Nasruddin replied, “You are right too.”
+	35.	The Ladder
+Nasruddin carried a ladder at night. Someone asked, “Why?” He said, “In case I want to climb into my dreams.”
+	36.	Wrong Funeral
+Nasruddin joined a funeral procession. Someone whispered, “Do you know who died?” Nasruddin: “No. That’s why I’m here—to see who is missing.”
+	37.	Donkey in Court
+In court, Nasruddin claimed, “My donkey is stolen!” The judge asked, “Any witness?” Nasruddin said, “Yes, the donkey himself—he never came home.”
+	38.	Smart Parrot
+Nasruddin bought a parrot but it never spoke. After a year, it finally said, “Don’t you ever shut up?”
+	39.	Lost Ring
+Nasruddin lost his ring in the dark. He searched under the lamp. Asked why, he said, “Because here I can see.”
+	40.	Half Truth
+Someone said, “Nasruddin, you never tell the truth.” He replied, “That is also true.”
+	41.	Learning Music
+Nasruddin bought a flute but couldn’t play. His friends said, “Play with the band.” He stood silently. Asked why, he said, “They play where I don’t know. I play where they don’t know.”
+	42.	Throwing Bread
+Nasruddin threw bread into the river. Asked why, he said, “To feed the fish.” “But I see no fish!” “Yes, but if they come, they won’t be hungry.”
+	43.	Sleeping in Mosque
+Nasruddin slept in the mosque. Someone said, “It’s God’s house.” Nasruddin: “Then I’m God’s guest.”
+	44.	Fishing with Bread
+Nasruddin put bread in water but no hook. Asked why, he said, “I’m feeding fish so they’ll trust me later.”
+	45.	Who Owns the Moon?
+Children asked, “Who owns the moon?” Nasruddin said, “I do—I lost it in the well last night.”
+	46.	Donkey’s Ears
+Someone said, “Your donkey has very long ears.” Nasruddin: “So it can hear foolish remarks like this.”
+	47.	Talking Too Much
+His wife said, “You talk too much.” Nasruddin: “That’s because I’m the only one here with good ideas.”
+	48.	The Honest Trader
+Nasruddin sold a donkey. The buyer returned: “You cheated me. It’s old.” Nasruddin: “You wanted a donkey, not a philosopher.”
+	49.	Broken Pot
+A neighbor accused Nasruddin of breaking his pot. Nasruddin said, “First, I never borrowed it. Second, it was broken when you gave it. Third, I returned it in perfect condition.”
+	50.	Horse for Sale
+Nasruddin sold his horse, saying, “It’s very obedient.” The horse threw the buyer off. Nasruddin said, “See? It even refuses to carry fools.”
+	51.	The Wise Man
+People asked, “Are you wise?” Nasruddin: “Yes, but I don’t like to show off.”
+	52.	Eating Grapes
+People ate grapes saying, “God be praised.” Nasruddin ate silently. They asked why. He said, “I praise God inside. I don’t want Him to hear me every time I chew.”
+	53.	Hot Soup
+Nasruddin blew on hot soup to cool it. Then he blew on his hands to warm them. Someone asked, “How can one breath do both?” Nasruddin: “Because I am wise.”
+	54.	At the Bathhouse
+Nasruddin looked poor and was given old clothes in the bathhouse. When he came out dressed richly, people bowed. Nasruddin put food into his coat pocket: “Eat, my coat—you are honored, not me.”
+	55.	The Eggplant
+Nasruddin praised eggplant as the best vegetable. Later he cursed it. Someone said, “But you praised it.” Nasruddin: “I am not loyal to vegetables. I am loyal to truth.”
+	56.	Looking for Donkey
+Nasruddin looked for his donkey while riding it. People laughed. He said, “Only fools look where the donkey is not.”
+	57.	Water in the Ear
+Water got in his ear. Nasruddin poured water in the other ear. Asked why, he said, “To wash the first one out.”
+	58.	Weighing Meat
+Butcher: “This meat is one kilo.” Nasruddin: “What if I want more?” Butcher: “Buy another kilo.” Nasruddin: “Then give me the kilo you measured, and also the one you will measure.”
+	59.	The Lock
+Nasruddin fixed a lock on an empty box. People asked, “Why lock it if it’s empty?” He said, “So people know it’s empty.”
+	60.	Dream Wealth
+Nasruddin dreamed he was rich. He woke up and found he was poor. He said, “Thank God. If I had dreamed I was poor, waking up would be worse.”
+	61.	Carrying Water
+Nasruddin carried water in a sieve. Someone asked why. He said, “To teach patience.”
+	62.	Too Honest
+Nasruddin applied for a job. They asked, “Are you honest?” He said, “Yes—so honest I won’t take this job.”
+	63.	Which Way to Town?
+A man asked, “Which way to the town?” Nasruddin said, “Half goes left, half right.” “But which half am I in?” “That you must decide.”
+	64.	Rain Prayer
+Villagers asked him to pray for rain. He said, “Bring umbrellas first.”
+	65.	Big Mouth
+Someone mocked Nasruddin: “Why is your mouth so big?” He replied, “So fools like you can fit inside.”
+	66.	Candle in the Sun
+Nasruddin lit a candle at noon. People asked why. He said, “So the sun won’t get lost.”
+	67.	Chickens
+Nasruddin’s chickens wandered. He shouted, “Go back, or I’ll sell you to myself.”
+	68.	Too Late
+His wife asked, “Why come home so late?” Nasruddin: “Because I left too early.”
+	69.	Borrowing a Book
+Someone borrowed a book and didn’t return. Nasruddin said, “Keep it. I have forgotten the ending anyway.”
+	70.	Donkey in the Garden
+His donkey ate cabbages. Nasruddin shouted, “Good! You’re saving me from indigestion.”
+	71.	Who is in the Grave?
+People asked, “Whose grave is this?” Nasruddin said, “It looks like mine—but I haven’t died yet.”
+	72.	Fishing in the Desert
+Nasruddin fished in the desert. Someone laughed. He said, “At least I’m not disturbing the fish.”
+	73.	Buying Wisdom
+A man said, “Sell me wisdom.” Nasruddin slapped him. The man shouted, “Why?” Nasruddin: “See? You paid nothing, yet you learned something.”
+	74.	Painting Walls
+Nasruddin painted walls with mud. People asked why. He said, “To protect them from dust.”
+	75.	Flying Carpet
+Nasruddin said, “My carpet can fly.” People asked, “Show us.” He said, “I don’t give free rides.”
+	76.	The Rich Beggar
+Nasruddin begged for money. Someone said, “You are strong—work!” He replied, “Begging is my work.”
+	77.	Donkey’s Wisdom
+His donkey stopped. People beat it. Nasruddin said, “It refuses to go because it knows where we’re going.”
+	78.	The Clock
+Nasruddin broke a clock. People asked, “Why?” He said, “It struck twelve—I don’t like arrogance.”
+	79.	Tasting Medicine
+Doctor gave him medicine. He tasted it and spat it out. “Disgusting!” Doctor said, “It’s not for taste, it’s for cure.” Nasruddin: “If it can cure, it can cure itself.”
+	80.	Lost Camel
+Nasruddin said, “I lost my camel.” People asked, “Any signs?” He said, “Yes, it had two eyes, one tail, and looked like a camel.”
+	81.	Answering Questions
+Someone asked, “Why do you always answer with another question?” Nasruddin said, “Why not?”
+	82.	Too Quiet
+People said, “You are too quiet today.” Nasruddin: “Yes, I am practicing silence loudly inside.”
+	83.	The Stick
+Nasruddin carried a stick at night. “For wild animals?” “No, for people asking stupid questions.”
+	84.	Watermelon
+Nasruddin planted cucumbers, but watermelons grew. He said, “I must have borrowed the wrong seeds.”
+	85.	The Moon’s Loan
+Nasruddin stared at the moon. Someone asked, “Why?” He said, “It borrowed light from me and never returned it.”
+	86.	Fear of Death
+Asked, “Are you afraid of death?” Nasruddin said, “Why should I be? When I am, death is not. When death is, I am not.”
+	87.	Borrowed Rope
+A man asked for his rope. Nasruddin said, “It’s in use.” “What use?” “I tied sand with it.” “You can’t tie sand!” “That’s why it’s busy.”
+	88.	Donkey’s Name
+Nasruddin named his donkey “Problem.” When asked why, he said, “Because everyone has one.”
+	89.	The Scholar
+A scholar mocked him: “You know nothing.” Nasruddin said, “Then we are equal—you also know that I know nothing.”
+	90.	Lost Cow
+Nasruddin looked for his cow on the roof. People laughed. He said, “I prefer losing it where it can’t be.”
+	91.	The Silent Sermon
+Nasruddin stood silently before people. They said, “Speak!” He said, “I already said everything.”
+	92.	Fishing Hat
+He wore a hat with hooks. Asked why, he said, “In case fish jump high.”
+	93.	Talking with Walls
+Nasruddin talked to walls. Someone asked, “Do they answer?” He said, “Only when I stop listening.”
+	94.	The Shoe
+He threw his shoe into the river. People asked, “Why?” He said, “The other is lost—let them be together.”
+	95.	Raincoat
+Nasruddin wore a raincoat on a sunny day. He said, “To stop the rain from coming.”
+	96.	Rich Friend
+A rich man said, “Money talks.” Nasruddin replied, “Yes, it always says goodbye.”
+	97.	The Camel’s Shadow
+A man rented his camel but sat in its shadow. Nasruddin demanded extra: “Shadow is not included.”
+	98.	The Idiot
+Someone said, “Nasruddin, you are an idiot.” He said, “Correct—but only part-time.”
+	99.	Who Owns the House?
+People asked, “Is this your house?” Nasruddin: “Yes, but only until I die. Then it belongs to someone else.”
+	100.	Final Wisdom
+Asked, “What is the secret of life?” Nasruddin said, “Keep it secret.”
+
+⸻
